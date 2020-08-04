@@ -1,9 +1,82 @@
 {
   "categorias": [
     {
+      "titulo": "Clips",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "var(--orange)",
+      "link_extra": {
+        "text": "Clips e muito mais",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Audioslave - Like a Stone (Official Video)",
+          "url": "https://youtu.be/7QU1nvuxaMA?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        },
+        {
+          "titulo": "R.E.M. - Losing My Religion (Official Music Video)",
+          "url": "https://youtu.be/xwtdhWltSIg?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        },
+        {
+          "titulo": "Pink Floyd - Another Brick In The Wall (HQ)",
+          "url": "https://youtu.be/YR5ApYxkU-U?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        },
+        {
+          "titulo": "Red Hot Chili Peppers - Californication [Official Music Video]",
+          "url": "https://youtu.be/YlUKcNNmywk?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        },
+        {
+          "titulo": "4 Non Blondes - What's Up (Official Video)",
+          "url": "https://youtu.be/6NXnxTNIWkc?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        },
+        {
+          "titulo": "System Of A Down - Toxicity (Official Video)",
+          "url": "https://youtu.be/iywaBOMvYLI?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        },
+        {
+          "titulo": "Natalie Imbruglia - Torn (Official Video)",
+          "url": "https://youtu.be/VV1XWJN3nJo?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        },
+        {
+          "titulo": "Metallica: Whiskey in the Jar (Official Music Video)",
+          "url": "https://youtu.be/boanuwUMNNQ?list=PLfpI1B6NGHW9FC4Yth0j1SvNDBoT-gJe9"
+        }        
+      ]
+    },
+    {
+      "titulo": "Videos da Thuany",
+      "cor": "var(--orange)",
+      "link_extra": {
+        "text": "Videos favoritos da thuany",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Minecraft - Who's Your Family? O FILHO DA RAVENA E MUTANO ! JOVENS TITÃS EM AÇÃO !",
+          "url": "https://youtu.be/O7KGlelHEH4"
+        },
+        {
+          "titulo": "Minecraft : Naruto S - TREVIN E NARUTO LUTA CONTRA OROCHIMARU ! 5",
+          "url": "https://youtu.be/rKXiTsx_H6w"
+        },
+        {
+          "titulo": "Minecraft - Dragon Ball WHAT IF? - - SE GOKU CAÍSSE NO MUNDO DO DAISHINKAN INVÉS DA TERRA ? EP 1",
+          "url": "https://youtu.be/BDTDqcmiYrs"
+        },
+        {
+          "titulo": "VIREI UM NINJA COM SUPER VELOCIDADE NO ROBLOX!! (Super Power Fighting Simulator)",
+          "url": "https://youtu.be/_RNPwV-61Pc"
+        },
+        {
+          "titulo": "APOCALIPSE DE 10000 ANIMATRONICS ATACARAM NOSSAS CASAS NO MINECRAFT!! (FIVE NIGHTS AT FREDDY'S)",
+          "url": "https://youtu.be/4bvtjE9v5o0"
+        }
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "var(--orange)",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
@@ -45,7 +118,7 @@
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "var(--orange)",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +148,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "var(--orange)",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -100,8 +173,8 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Trailer Filmes",
+      "cor": "var(--orange)",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -122,38 +195,8 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "var(--orange)",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
